@@ -1,0 +1,9 @@
+Product ID: 222
+Name: iPhone
+Price: $3999.0
+Brand: Apple
+Warranty Period: 24 months
+Power Supply: type c
+The price after discount: 3399.15
+********************
+Totel price: $3399

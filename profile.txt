@@ -1,0 +1,9 @@
+Hello dear customer
+*************your profile*************
+
+Name : naif
+Email : naif1234@gmail.com
+Your ID : 1122369
+your Address : hail city
+
+**************************************
